@@ -23,6 +23,10 @@
 /[Uu]ser[Ss]ettings/
 *.log
 
+# Source PSD files from the Stylized Nature Environment package
+/Assets/Stylized Nature Environment/**/*.psd
+/Assets/Stylized Nature Environment/**/*.PSD
+
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
 *.blend1.meta
